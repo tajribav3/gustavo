@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b8379"
+  },
+  "name": "Urban Explorer",
+  "icon": "🏙️",
+  "description": "You're drawn to the excitement of bustling cities, eager to explore their vibrant culture and modern marvels.",
+  "adventureLevel": 5
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b8375"
+  },
+  "name": "Foodie",
+  "icon": "🍽️",
+  "description": "You live for a good meal at any time!",
+  "adventureLevel": 4
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b8385"
+  },
+  "name": "Film Enthusiast",
+  "icon": "🎥",
+  "description": "You appreciate the art of cinema, seeking movie screenings, film festivals, and behind-the-scenes experiences.",
+  "adventureLevel": 4
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b8386"
+  },
+  "name": "Sports Fanatic",
+  "icon": "⚽",
+  "description": "You live and breathe sports, cheering for your favorite teams and attending sporting events whenever possible.",
+  "adventureLevel": 4
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b8376"
+  },
+  "name": "Beach Lover",
+  "icon": "🏖️",
+  "description": "You're at your happiest when your toes are in the sand and the ocean breeze is in your hair.",
+  "adventureLevel": 6
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b837b"
+  },
+  "name": "Cultural Enthusiast",
+  "icon": "🎭",
+  "description": "You immerse yourself in diverse cultures, appreciating art, music, and traditions from around the world.",
+  "adventureLevel": 3
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b837d"
+  },
+  "name": "Backpacker",
+  "icon": "🎒",
+  "description": "You're always ready for a journey, exploring new destinations and embracing the backpacking lifestyle.",
+  "adventureLevel": 10
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b837f"
+  },
+  "name": "Sun Chaser",
+  "icon": "☀️",
+  "description": "You thrive under the sun's warmth, seeking endless summer vibes and outdoor adventures.",
+  "adventureLevel": 5
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b8380"
+  },
+  "name": "Winter Soldier",
+  "icon": "⛄",
+  "description": "You love the magic of winter, embracing snow-covered landscapes and enjoying cozy winter activities.",
+  "adventureLevel": 6
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b8383"
+  },
+  "name": "Wellness Seeker",
+  "icon": "🧘",
+  "description": "You prioritize self-care and seek experiences that promote relaxation, rejuvenation, and overall well-being.",
+  "adventureLevel": 3
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b8388"
+  },
+  "name": "Photography Enthusiast",
+  "icon": "📷",
+  "description": "You have a keen eye for capturing moments and seek experiences that provide stunning photography opportunities.",
+  "adventureLevel": 6
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b8378"
+  },
+  "name": "Nature Enthusiast",
+  "icon": "🌿",
+  "description": "You find solace in the great outdoors, seeking adventures in forests, mountains, and natural wonders.",
+  "adventureLevel": 7
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b837a"
+  },
+  "name": "Fashion Connoisseur",
+  "icon": "👗",
+  "description": "Your impeccable sense of style and love for fashion trends make you a true trendsetter.",
+  "adventureLevel": 3
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b837c"
+  },
+  "name": "Thrill Seeker",
+  "icon": "🎢",
+  "description": "You have an adventurous spirit, seeking adrenaline-pumping experiences and pushing your limits.",
+  "adventureLevel": 10
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b8381"
+  },
+  "name": "Tech Geek",
+  "icon": "🤓",
+  "description": "You're passionate about technology and enjoy exploring the latest innovations and geek culture.",
+  "adventureLevel": 1
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b8377"
+  },
+  "name": "Night Explorer",
+  "icon": "🌃",
+  "description": "The night is your playground, and you thrive on discovering the vibrant nightlife of cities.",
+  "adventureLevel": 7
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b837e"
+  },
+  "name": "Business Professional",
+  "icon": "💼",
+  "description": "You're driven by success and constantly seeking networking opportunities and business-related experiences.",
+  "adventureLevel": 2
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b8382"
+  },
+  "name": "Art Aficionado",
+  "icon": "🎨",
+  "description": "You appreciate and seek out artistic expressions, from paintings and sculptures to performances and installations.",
+  "adventureLevel": 2
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b8384"
+  },
+  "name": "Music Lover",
+  "icon": "🎵",
+  "description": "You have a deep passion for music, seeking concerts and festivals to enjoy a wide range of genres and performances.",
+  "adventureLevel": 3
+},
+{
+  "_id": {
+    "$oid": "64ae8f3995b15f2ab76b8387"
+  },
+  "name": "Romantic at Heart",
+  "icon": "💑",
+  "description": "You adore romance and seek experiences that celebrate love, from intimate dinners to romantic getaways.",
+  "adventureLevel": 8
+}]

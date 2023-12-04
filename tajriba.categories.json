@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "649d70292abb045a8a87dd4c"
+  },
+  "name": "safari",
+  "tags": [
+    "Wildlife",
+    "Adventure",
+    "Exploration",
+    "Nature",
+    "Wildlife Conservation"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649d70292abb045a8a87dd4d"
+  },
+  "name": "art",
+  "tags": [
+    "Creativity",
+    "Visual Arts",
+    "Painting",
+    "Sculpture",
+    "Contemporary"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649d70292abb045a8a87dd51"
+  },
+  "name": "food",
+  "tags": [
+    "Cuisine",
+    "Cooking",
+    "Gastronomy",
+    "Recipes",
+    "Dining"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649d70292abb045a8a87dd52"
+  },
+  "name": "history",
+  "tags": [
+    "Heritage",
+    "Ancient",
+    "Historical Events",
+    "Archaeology"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649d70292abb045a8a87dd53"
+  },
+  "name": "nature",
+  "tags": [
+    "Wilderness",
+    "Biodiversity",
+    "Ecosystem",
+    "Hiking",
+    "Environmental"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649d70292abb045a8a87dd54"
+  },
+  "name": "outdoors",
+  "tags": [
+    "Adventure",
+    "Camping",
+    "Hiking",
+    "Recreation",
+    "Nature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649d70292abb045a8a87dd55"
+  },
+  "name": "sports",
+  "tags": [
+    "Athletics",
+    "Competition",
+    "Fitness",
+    "Team Sports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649d70292abb045a8a87dd4e"
+  },
+  "name": "culture",
+  "tags": [
+    "Tradition",
+    "Heritage",
+    "Diversity",
+    "Folklore"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649d70292abb045a8a87dd4f"
+  },
+  "name": "drinks",
+  "tags": [
+    "Beverages",
+    "Cocktails",
+    "Coffee",
+    "Tea"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649d70292abb045a8a87dd50"
+  },
+  "name": "entertainment",
+  "tags": [
+    "Fun",
+    "Movies",
+    "Music",
+    "Events"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649d70292abb045a8a87dd56"
+  },
+  "name": "wellness",
+  "tags": [
+    "Health",
+    "Fitness",
+    "Meditation"
+  ]
+}]
